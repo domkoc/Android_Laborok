@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WorkplaceApp</string>
+    <string name="profile">Profile</string>
+    <string name="holiday">Holiday</string>
+    <string name="payment">Payment</string>
+    <string name="cafeteria">Cafeteria</string>
+    <string name="id">ID:</string>
+    <string name="social_security_id">Social Security ID:</string>
+    <string name="tax_id">Tax ID:</string>
+    <string name="registration_id">Registration ID:</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="address">Address:</string>
+    <string name="take_holiday">Take Holiday</string>
+</resources>
